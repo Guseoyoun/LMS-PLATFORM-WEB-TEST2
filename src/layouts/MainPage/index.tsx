@@ -135,7 +135,7 @@ const MainPage: NextPage = () => {
                   됩니다.
                 </li>
                 <li>
-                  온라인 교육은 네트워크 상태에 따라 데이터 요금이 발생할 수 있습니다.
+                  온라인 교육은 네트워크 상태에 따라 데이터 요금이 발생할 수 있습니다!!
                   <span className='accent-word'>(Wi-Fi 사용 권장)</span>
                 </li>
               </ol>
